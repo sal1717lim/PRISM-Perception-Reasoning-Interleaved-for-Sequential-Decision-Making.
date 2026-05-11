@@ -4,7 +4,7 @@ This repository contains the official implementation of **PRISM**, a framework t
 
 ---
 
-![PRISM Framework](assets/prism_framework.jpg)
+![PRISM Framework](prism_framework.jpg)
 
 ---
 
@@ -12,7 +12,6 @@ This repository contains the official implementation of **PRISM**, a framework t
 
 | Item | Status |
 |------|--------|
-| 🔢 Release Steps | ☐ |
 | 💻 Release Code | ☐ |
 | 🗂️ Release Dataset | ☐ |
 | ⚖️ Release Weights | ☐ |
@@ -24,16 +23,15 @@ This repository contains the official implementation of **PRISM**, a framework t
 If you use PRISM in your research, please cite:
 
 ```bibtex
-@article{prism2025,
-  title   = {PRISM: Perception-Reasoning Interleaved for Sequential Decision-Making},
-  author  = {},
-  year    = {2025},
-  url     = {https://arxiv.org/abs/2605.05407}
+@misc{aissi2026prismperceptionreasoninginterleaved,
+      title={PRISM: Perception Reasoning Interleaved for Sequential Decision Making}, 
+      author={Mohamed Salim Aissi and Clemence Grislain and Clement Romac and Laure Soulier and Mohamed Chetouani and Olivier Sigaud and Nicolas Thome},
+      year={2026},
+      eprint={2605.05407},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2605.05407}, 
 }
 ```
 
----
 
-## 📬 Contact
-
-For questions or issues, please open a GitHub Issue or reach out to the authors.
