@@ -32,7 +32,3 @@ If you use PRISM in your research, please cite:
 ```
 
 ---
-
-## 📬 Contact
-
-For questions or issues, please open a GitHub Issue or reach out to the authors.
